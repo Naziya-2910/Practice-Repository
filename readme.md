@@ -1,4 +1,4 @@
 <head>
-    <My practice project>
-    <practice makes man perfect>
+    <h1 my practice project>
+    <h2 practice makes man perfect>
 </head>
